@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nybmg2M3I1aG8wZnkzbDY4a3d3NDQxanRzYjZnMW84ZHEwOHB5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
   
   <div id="badges">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/konstantintuhay/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="#">
@@ -37,7 +37,7 @@ I am a Front Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: In my free time, I solve problems on CodeWars or LeetCode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tuhay-blue?style=flat&logo=Linkedin&logoColor=white)](url)[![Instagram Badge](https://img.shields.io/badge/-Tuhay-red?style=flat&logo=Instagram&logoColor=white)](url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tuhay-blue?style=flat&logo=Linkedin&logoColor=white)](url)[![Instagram Badge](https://img.shields.io/badge/-Tuhay-red?style=flat&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/konstantintuhay/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
