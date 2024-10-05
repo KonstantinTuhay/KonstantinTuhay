@@ -37,7 +37,7 @@ I am a Front Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: In my free time, I solve problems on CodeWars or LeetCode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tuhay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/konstantintuhay/)[![Instagram Badge](https://img.shields.io/badge/-Tuhay-red?style=flat&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/konstantintuhay/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-konstantintuhay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/konstantintuhay/)[![Instagram Badge](https://img.shields.io/badge/-Tuhay-red?style=flat&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/konstantintuhay/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
